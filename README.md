@@ -1,9 +1,15 @@
-### bem-vindo ao meu perfil 🥀
+### <p align = "center"> bem-vindo ao meu perfil 🥀
+  </p>
+
+<p align="center">
+  <img src = "https://i.ppy.sh/ab0573e259014d2bff5d16f08f00b51ce77d65d7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37302f61642f39642f37306164396465653134613139356661633262353063663538303861643235622e676966">
+       </p>
+  
+  
 
 
-![akiragif](https://user-images.githubusercontent.com/130713451/232111627-fe321d1c-3a0b-416a-bd2c-9f11e611e316.gif)
-
-### sobre mim
+### <p align = center> sobre mim ✨
+  </p>
 
 ```C
 
