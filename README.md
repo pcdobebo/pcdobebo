@@ -1,3 +1,3 @@
-### 🥀 bem-vindo ao meu perfil ⛓
+### 🥀 bem-vindo ao meu perfil
 
-![pxfuel](https://user-images.githubusercontent.com/130713451/231971203-6821cae8-89ef-475b-b30d-ade744d1b49c.jpg)
+![akiragif](https://user-images.githubusercontent.com/130713451/231973504-32aa7297-f877-44a7-8043-18ae06ac5bad.gif)
