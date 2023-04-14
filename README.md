@@ -5,3 +5,17 @@
 
 ### sobre mim
 
+```C
+
+struct profile{
+
+  char name[8] = "Gustavo";
+  char city[12] = "Sobral - CE";
+  char studies[22] = "Computer Science - UVA";
+  char hobbies[50] = "gaming, reading, playing guitar, discover musics";
+  char obssessions[30] = "persona 5, cats, music";
+  char code = "C";
+  char funfact[10] = "amateur musician";
+}
+  
+
