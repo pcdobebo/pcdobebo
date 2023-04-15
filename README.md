@@ -21,7 +21,6 @@ struct profile{
   char hobbies[50] = "gaming, reading, playing guitar, discover musics";
   char obssessions[30] = "persona 5, cats, music";
   char code = "C";
-  char funfact[10] = "amateur musician";
+  char funfact[17] = "amateur musician";
 }
   
-
