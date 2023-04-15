@@ -23,4 +23,3 @@ struct profile{
   char code = "C";
   char funfact[17] = "amateur musician";
 }
-  
